@@ -1,0 +1,2 @@
+openai
+pysqlite3-binary
